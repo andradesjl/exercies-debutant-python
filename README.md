@@ -7,10 +7,15 @@ Si vous trouvez le dépôt utile n'hésitez pas de laisser une étoite !
 
 ## Exercices
 
-- [Exercice 1](#exercice-1)
-- [Exercice 2](#exercice-2)
-- [Exercice 3](#exercice-3)
-- [Exercice 4](#exercice-4)
+<p align="center">
+  <a href="#exercice-1">Exercice 1</a> •
+  <a href="#exercice-2">Exercice 2</a> •
+  <a href="#exercice-3">Exercice 3</a> •
+  <a href="#exercice-4">Exercice 4</a>
+</p>
+
+---
+<br/><br/><br/>
 
 ## [Exercice 1](exercice_1.ipynb)
 
